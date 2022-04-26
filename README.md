@@ -1,3 +1,3 @@
 # TicTacToe_game
 
-This is my TiTacToe game
+This is my TicTacToe game
